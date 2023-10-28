@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: src_hosts
+    description: Source hosts
+  - name: src_listings
+    description: Source listings
+  - name: src_reviews
+    description: Source reviews

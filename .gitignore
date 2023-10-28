@@ -1,0 +1,7 @@
+logs/
+.DS_Store
+.idea/
+.user.yml
+.python-version
+.vscode/
+.env
