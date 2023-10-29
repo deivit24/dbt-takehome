@@ -1,4 +1,4 @@
-# Easy DBT project
+# Take home DBT project
 
 This is a repo that anyone can clone to get a simple DBT project setup with postgres data setup using docker.
 
