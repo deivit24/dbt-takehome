@@ -79,6 +79,8 @@ This should pull a postgres image and build a container.
 
 Now it is time to load raw source tables and test your DBT connection.
 
+unzip `files.zip` and put csv files in the `airbnb` directory
+
 From root run:
 
 ```shell
